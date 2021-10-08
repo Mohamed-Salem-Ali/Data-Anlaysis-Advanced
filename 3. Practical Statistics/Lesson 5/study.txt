@@ -1,0 +1,18 @@
+4 coins 
+#heads = #tails
+t t t t
+t t t h
+t t h t
+t t h h
+t h t t
+t h t h
+t h h t
+t h h h
+h t t t
+h t t h
+h t h t
+h t h h
+h h t t
+h h t h
+h h h t
+h h h h
